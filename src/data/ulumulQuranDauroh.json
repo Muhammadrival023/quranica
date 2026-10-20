@@ -1,0 +1,16 @@
+{
+  "title": "Dauroh Ilmiah Ulumul Qur'an Komprehensif",
+  "institution": "Markaz Ad-Dirasat Al-Qur'aniyyah - Ma'had Imam Asy-Syathibi",
+  "sessions": [
+    { "session": 1, "topic": "Pengantar & Sejarah Kodifikasi Al-Qur'an (Rasm Utsmani)" },
+    { "session": 2, "topic": "Asbabun Nuzul & Epistemologi Konteks Pewahyuan" },
+    { "session": 3, "topic": "Makkiyyah & Madaniyyah: Karakteristik Tematik" },
+    { "session": 4, "topic": "Munasabah Ayat & Surah dalam Arsitektur Mushaf" },
+    { "session": 5, "topic": "Qira'at Sab'ah & 'Asyrah Mutawatirah" },
+    { "session": 6, "topic": "Gharibul Qur'an & Wujuh wa Nazha'ir" },
+    { "session": 7, "topic": "Nasikh wa Mansukh: Teori & Verifikasi Fiqh" },
+    { "session": 8, "topic": "Muhkam & Mutasyabih: Kaidah Hermeneutika Salaf & Khalaf" },
+    { "session": 9, "topic": "I'jaz Al-Qur'an: Bayani, Ilmi, & Tasyri'i" },
+    { "session": 10, "topic": "Fadhailul Qur'an & Adab Hamalatil Qur'an" }
+  ]
+}

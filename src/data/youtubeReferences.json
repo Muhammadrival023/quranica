@@ -1,0 +1,25 @@
+{
+  "guidelines": {
+    "priority": "Rujuk channel kajian akademis resmi untuk pendalaman materi qira'at, tajwid, dan tafsir."
+  },
+  "channels": [
+    {
+      "name": "Markaz Imam Syathibi",
+      "focus": "Ulumul Qur'an & Qira'at",
+      "domains": ["Tajwid", "Talaqqi Sanad", "Qiraat Asyrah"],
+      "url": "https://www.youtube.com/@markazsyathibi"
+    },
+    {
+      "name": "UIN Sunan Gunung Djati Official",
+      "focus": "Studi Islam & Riset Turats",
+      "domains": ["Tafsir", "Hadits", "Ushul Fiqh"],
+      "url": "https://www.youtube.com/@uinsgdofficial"
+    },
+    {
+      "name": "Dr. Ayman Suwaid Official",
+      "focus": "Makharijul Huruf & Tajwid Standar",
+      "domains": ["Fonetik Arab", "Al-Jazariyah", "Talaqqi"],
+      "url": "https://www.youtube.com/@DrAymanSuwaid"
+    }
+  ]
+}

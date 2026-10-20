@@ -1,0 +1,27 @@
+{
+  "author": "Rival Zamzam Elhasbi",
+  "institution": "Safwa University",
+  "year": 2025,
+  "description": "Kerangka integratif ushul fiqh kontemporer yang menggabungkan maqashid syariah, linguistik semantik modern, dan verifikasi faktual hukum.",
+  "principles": {
+    "tahqiq": { "name": "Tahqiq al-Manath al-Waqi'i" },
+    "tanqih": { "name": "Tanqih al-'Illah" },
+    "maqashid": { "name": "Mura'at al-Kulliyyat al-Khams" },
+    "maslahah": { "name": "Maslahah Mursalah Mu'tabarah" },
+    "sadd": { "name": "Sadd adz-Dzari'ah" },
+    "fath": { "name": "Fath adz-Dzari'ah & Istihsan" },
+    "taisir": { "name": "Al-Masyaqqatu Tajlibut Taisir" }
+  },
+  "inference_architecture": {
+    "steps": [
+      "Identifikasi Nash & Asbabun Nuzul",
+      "Analisis Semantik & I'rab",
+      "Takhrij Sanad & Otentisitas",
+      "Ekstraksi 'Illat Hukum",
+      "Uji Komparasi Mazhab",
+      "Penetapan Maqashid Utama",
+      "Verifikasi Dampak Faktual (Ma'alat)",
+      "Formulasi Konklusi Aksiologis"
+    ]
+  }
+}
